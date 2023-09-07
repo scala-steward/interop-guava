@@ -15,7 +15,7 @@ This library provides an interoperability layer with [Guava](https://guava.dev/)
 In order to use this library, we need to add the following line in our `build.sbt` file:
 
 ```scala
-libraryDependencies += "dev.zio" %% "zio-interop-guava" % "32.1.0"
+libraryDependencies += "dev.zio" %% "zio-interop-guava" % "26.0.0.5-2"
 ```
 
 ## Example
